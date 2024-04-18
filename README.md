@@ -35,20 +35,17 @@
     align="center"
   />
   <img 
-    src="
-    https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
     alt="Reactjs" 
     align="center"
   />
    <img 
-    src="
-    https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-    alt="Reactjs" 
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    alt="React Native" 
     align="center"
   />
     <img 
-    src="
-    https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" 
+    src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" 
     alt="Material ui" 
     align="center" 
   />
