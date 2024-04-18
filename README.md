@@ -55,3 +55,18 @@
     align="center" 
   />
 </div>
+<br>
+Apaixonado por tecnologia e gosto de criar coisas para facilitar vidas usando 
+tecnologia e desenvolvimento de Aplicativo moveis e sistema web tudo que envolva 
+programação 
+
+
+
+## Ultimos Projeto que estao e deploy
+
+- [Cardapio online - com html tailwind js](https://dev-burger-git-main-thiagomorgado.vercel.app/) <br />
+
+- [site para barbearia  - com html scss](https://dev-burger-git-main-thiagomorgado.vercel.app/)
+
+
+
